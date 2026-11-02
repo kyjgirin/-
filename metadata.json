@@ -1,0 +1,6 @@
+{
+  "name": "StoryWonder - Kids AI Storybook Reader & Illustrator",
+  "description": "Magical illustrated storybook app for children with expressive read-aloud narration, new generated page illustrations with 1K/2K/4K resolution, and interactive character buddies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
